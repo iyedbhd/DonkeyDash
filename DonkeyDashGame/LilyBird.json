@@ -1,0 +1,131 @@
+﻿{"frames": {
+
+"Symbol 9 instance 10000":
+{
+	"frame": {"x":0,"y":0,"w":77,"h":63},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":77,"h":63},
+	"sourceSize": {"w":77,"h":63}
+},
+"Symbol 9 instance 10001":
+{
+	"frame": {"x":77,"y":0,"w":77,"h":63},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":77,"h":63},
+	"sourceSize": {"w":77,"h":63}
+},
+"Symbol 9 instance 10002":
+{
+	"frame": {"x":154,"y":0,"w":77,"h":63},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":77,"h":63},
+	"sourceSize": {"w":77,"h":63}
+},
+"Symbol 9 instance 10003":
+{
+	"frame": {"x":231,"y":0,"w":77,"h":63},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":77,"h":63},
+	"sourceSize": {"w":77,"h":63}
+},
+"Symbol 9 instance 10004":
+{
+	"frame": {"x":308,"y":0,"w":77,"h":63},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":77,"h":63},
+	"sourceSize": {"w":77,"h":63}
+},
+"Symbol 9 instance 10005":
+{
+	"frame": {"x":385,"y":0,"w":77,"h":63},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":77,"h":63},
+	"sourceSize": {"w":77,"h":63}
+},
+"Symbol 9 instance 10006":
+{
+	"frame": {"x":462,"y":0,"w":77,"h":63},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":77,"h":63},
+	"sourceSize": {"w":77,"h":63}
+},
+"Symbol 9 instance 10007":
+{
+	"frame": {"x":539,"y":0,"w":77,"h":63},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":77,"h":63},
+	"sourceSize": {"w":77,"h":63}
+},
+"Symbol 9 instance 10008":
+{
+	"frame": {"x":616,"y":0,"w":77,"h":63},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":77,"h":63},
+	"sourceSize": {"w":77,"h":63}
+},
+"Symbol 9 instance 10009":
+{
+	"frame": {"x":693,"y":0,"w":77,"h":63},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":77,"h":63},
+	"sourceSize": {"w":77,"h":63}
+},
+"Symbol 9 instance 10010":
+{
+	"frame": {"x":770,"y":0,"w":77,"h":63},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":77,"h":63},
+	"sourceSize": {"w":77,"h":63}
+},
+"Symbol 9 instance 10011":
+{
+	"frame": {"x":847,"y":0,"w":77,"h":63},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":77,"h":63},
+	"sourceSize": {"w":77,"h":63}
+},
+"Symbol 9 instance 10012":
+{
+	"frame": {"x":924,"y":0,"w":77,"h":63},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":77,"h":63},
+	"sourceSize": {"w":77,"h":63}
+},
+"Symbol 9 instance 10013":
+{
+	"frame": {"x":1001,"y":0,"w":77,"h":63},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":77,"h":63},
+	"sourceSize": {"w":77,"h":63}
+},
+"Symbol 9 instance 10014":
+{
+	"frame": {"x":1078,"y":0,"w":77,"h":63},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":77,"h":63},
+	"sourceSize": {"w":77,"h":63}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "18.0.2.126",
+	"image": "LilyBird.png",
+	"format": "RGBA8888",
+	"size": {"w":1216,"h":67},
+	"scale": "1"
+}
+}

@@ -1,0 +1,163 @@
+﻿{"frames": {
+
+"Symbol 11 copy instance 10000":
+{
+	"frame": {"x":0,"y":0,"w":254,"h":298},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":254,"h":298},
+	"sourceSize": {"w":254,"h":298}
+},
+"Symbol 11 copy instance 10001":
+{
+	"frame": {"x":254,"y":0,"w":254,"h":298},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":254,"h":298},
+	"sourceSize": {"w":254,"h":298}
+},
+"Symbol 11 copy instance 10002":
+{
+	"frame": {"x":508,"y":0,"w":254,"h":298},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":254,"h":298},
+	"sourceSize": {"w":254,"h":298}
+},
+"Symbol 11 copy instance 10003":
+{
+	"frame": {"x":762,"y":0,"w":254,"h":298},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":254,"h":298},
+	"sourceSize": {"w":254,"h":298}
+},
+"Symbol 11 copy instance 10004":
+{
+	"frame": {"x":1016,"y":0,"w":254,"h":298},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":254,"h":298},
+	"sourceSize": {"w":254,"h":298}
+},
+"Symbol 11 copy instance 10005":
+{
+	"frame": {"x":1270,"y":0,"w":254,"h":298},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":254,"h":298},
+	"sourceSize": {"w":254,"h":298}
+},
+"Symbol 11 copy instance 10006":
+{
+	"frame": {"x":1524,"y":0,"w":254,"h":298},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":254,"h":298},
+	"sourceSize": {"w":254,"h":298}
+},
+"Symbol 11 copy instance 10007":
+{
+	"frame": {"x":1778,"y":0,"w":254,"h":298},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":254,"h":298},
+	"sourceSize": {"w":254,"h":298}
+},
+"Symbol 11 copy instance 10008":
+{
+	"frame": {"x":2032,"y":0,"w":254,"h":298},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":254,"h":298},
+	"sourceSize": {"w":254,"h":298}
+},
+"Symbol 11 copy instance 10009":
+{
+	"frame": {"x":2286,"y":0,"w":254,"h":298},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":254,"h":298},
+	"sourceSize": {"w":254,"h":298}
+},
+"Symbol 11 copy instance 10010":
+{
+	"frame": {"x":2540,"y":0,"w":254,"h":298},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":254,"h":298},
+	"sourceSize": {"w":254,"h":298}
+},
+"Symbol 11 copy instance 10011":
+{
+	"frame": {"x":2794,"y":0,"w":254,"h":298},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":254,"h":298},
+	"sourceSize": {"w":254,"h":298}
+},
+"Symbol 11 copy instance 10012":
+{
+	"frame": {"x":3048,"y":0,"w":254,"h":298},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":254,"h":298},
+	"sourceSize": {"w":254,"h":298}
+},
+"Symbol 11 copy instance 10013":
+{
+	"frame": {"x":3302,"y":0,"w":254,"h":298},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":254,"h":298},
+	"sourceSize": {"w":254,"h":298}
+},
+"Symbol 11 copy instance 10014":
+{
+	"frame": {"x":3556,"y":0,"w":254,"h":298},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":254,"h":298},
+	"sourceSize": {"w":254,"h":298}
+},
+"Symbol 11 copy instance 10015":
+{
+	"frame": {"x":3810,"y":0,"w":254,"h":298},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":254,"h":298},
+	"sourceSize": {"w":254,"h":298}
+},
+"Symbol 11 copy instance 10016":
+{
+	"frame": {"x":4064,"y":0,"w":254,"h":298},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":254,"h":298},
+	"sourceSize": {"w":254,"h":298}
+},
+"Symbol 11 copy instance 10017":
+{
+	"frame": {"x":4318,"y":0,"w":254,"h":298},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":254,"h":298},
+	"sourceSize": {"w":254,"h":298}
+},
+"Symbol 11 copy instance 10018":
+{
+	"frame": {"x":4572,"y":0,"w":254,"h":298},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":254,"h":298},
+	"sourceSize": {"w":254,"h":298}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "18.0.2.126",
+	"image": "donkeyanimation2.png",
+	"format": "RGBA8888",
+	"size": {"w":4929,"h":330},
+	"scale": "1"
+}
+}
